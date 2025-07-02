@@ -1,8 +1,9 @@
-![Demo of LinkedIn Post Generator](p1.gif)
 # LinkedIn Post Generator Tool (Gen AI Project with Llama 3.2)
 
 This project is an **end-to-end LinkedIn Post Generator** built using **Llama 3.2 (open-source LLM)**, **LangChain**, **Streamlit**, and **Groq Cloud**. It is designed to help LinkedIn influencers and professionals generate high-quality, personalized posts in their unique writing style with just a few clicks.
 
+
+![Demo of LinkedIn Post Generator](p1.gif)
 ---
 
 ## Features
